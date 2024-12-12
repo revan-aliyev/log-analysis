@@ -11,7 +11,7 @@ Bu layihə, regex istifadə edərək `access_log.txt` faylından URL-ləri və s
 ## Quraşdırma təlimatları
 1. **GitHub-dan layihəni klonlayın:**
    ```bash
-   git clone https://github.com/istifadəçi_adınız/lahiyə_adı.git
+   git clone https://github.com/revan-aliyev/log-analysis.git
    ```
 
 2. **Virtual mühitin yaradılması:**
